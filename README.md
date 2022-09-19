@@ -14,9 +14,28 @@ All tiles have integer lengths and share the same height of 1.
 Now, you want to replace some black square tiles with your colored tiles. However, you are quite picky, and you want to use exactly two types of colored tiles (RGB). You can leave black gaps as much as you want.
 
 In how many ways can you replace black tiles with your colored tiles? Since your answer will be very large, please give your answer modulo 12345787.
+
+
 Example
 
 For n = 6 and (r, g, b) = (2, 3, 4), these are the eight possible arrangements using exactly two colors (R, G, B denote red, green, blue tiles respectively, and a dot is a black tile):
+
+RRGGG.
+
+RR.GGG
+
+.RRGGG
+
+GGGRR.
+
+GGG.RR
+
+.GGGRR
+
+RRBBBB
+
+BBBBRR
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
