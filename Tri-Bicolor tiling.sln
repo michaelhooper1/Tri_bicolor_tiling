@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tri-Bicolor tiling", "Tri-Bicolor tiling.pyproj", "{EBB715B2-C202-45FD-B71A-1FCA787EE4E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB715B2-C202-45FD-B71A-1FCA787EE4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB715B2-C202-45FD-B71A-1FCA787EE4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E7CF20-6AD9-4A48-B0C6-8125A6461A28}
+	EndGlobalSection
+EndGlobal
